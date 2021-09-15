@@ -1,0 +1,6 @@
+.titulo.header{
+    display: flex;
+    justify-content: space-between;    
+    color: rgb(241, 111, 241);
+    width: 160vh;
+    }

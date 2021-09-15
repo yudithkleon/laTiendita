@@ -1,0 +1,11 @@
+.Carta.principal{
+    background-color: blue;
+    width: 200vh;
+}
+
+.card.frutas{
+    width: 1000vh;
+    background-color: grey;
+    display: flex;
+    justify-content: space-around;
+}
